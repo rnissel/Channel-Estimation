@@ -27,7 +27,7 @@ We used Windows 7 (64bit) and Matlab R2013b/2016a, but newer versions (and some 
 
 
 ### The first iteration step greatly improves the BER, which soon saturates:
-<img src="png/Figure5.png" width=501">
+<img src="png/Figure5.png" width=501>
 
 
 ## Reproducible Figures
